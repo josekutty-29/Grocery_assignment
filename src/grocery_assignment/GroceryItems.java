@@ -1,4 +1,4 @@
-package Assignment1;
+package grocery_assignment;
 import java.util.*;
 
 public class GroceryItems {
